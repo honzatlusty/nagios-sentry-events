@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#honza@inuits.eu
+
 token=''
 sentry_url=''
 days_ago=1
